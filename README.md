@@ -89,19 +89,6 @@ This project strengthened my understanding of data analysis concepts and improve
 
 ---
 
-## 📁 Project Structure
-
-```text
-Student-Performance-Analysis/
-│── Student_Performance_Analysis.ipynb
-│── student-mat.csv
-│── README.md
-│── requirements.txt
-│── images/
-```
-
----
-
 ## 🙋‍♀️ Author
 
 **Nandani Makadiya**
